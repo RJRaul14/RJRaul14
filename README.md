@@ -69,15 +69,6 @@ Actualmente me encuentro en búsqueda de una práctica empresarial donde pueda a
 - Documentación técnica.
 - Metodologías ágiles y Scrum.
 
-### 🌐 Redes y soporte TI
-
-- Redes LAN/WAN.
-- Cisco Packet Tracer.
-- Enrutamiento estático.
-- Protocolos OSPF, EIGRP, RIP y BGP.
-- Mantenimiento de equipos de computación.
-- Sistemas operativos y soporte técnico.
-
 ---
 
 ## 📂 Proyectos destacados
