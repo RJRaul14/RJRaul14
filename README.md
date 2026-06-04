@@ -82,27 +82,7 @@ Actualmente me encuentro en búsqueda de una práctica empresarial donde pueda a
 
 ## 📂 Proyectos destacados
 
-### 🔹 Portafolio web personal
-
-Sitio web personal desarrollado para presentar mi perfil profesional, habilidades técnicas, proyectos, certificaciones y datos de contacto.
-
-**Tecnologías utilizadas:** HTML, CSS, JavaScript y GitHub Pages.
-
----
-
-### 🔹 Proyecto académico de desarrollo de aplicaciones
-
-Desarrollo de aplicaciones académicas aplicando conceptos de programación orientada a objetos, arquitectura en capas, bases de datos relacionales, interfaces de usuario y documentación técnica.
-
-**Tecnologías utilizadas:** C#, .NET, Python, SQL Server, Git y GitHub.
-
----
-
-### 🔹 Proyecto académico de bases de datos
-
-Diseño y manejo de bases de datos relacionales, aplicando consultas SQL, procedimientos, organización de información y conexión con aplicaciones.
-
-**Tecnologías utilizadas:** SQL Server, T-SQL y Oracle SQL Developer.
+PROXIMAMENTE
 
 ---
 
@@ -126,14 +106,6 @@ Diseño y simulación de redes utilizando Cisco Packet Tracer, aplicando concept
 - Análisis de sistemas.
 - Metodologías ágiles.
 - Arquitectura de software.
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=RJRaul14&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJRaul14&layout=compact&theme=tokyonight)
 
 ---
 
