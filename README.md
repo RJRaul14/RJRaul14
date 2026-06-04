@@ -3,7 +3,7 @@
 ## 👨‍💻 Estudiante de Informática Empresarial | En búsqueda de práctica empresarial
 
 Soy estudiante de Bachillerato en Informática Empresarial en la Universidad de Costa Rica.  
-Me interesa el desarrollo de software, desarrollo de aplicaciones, bases de datos, redes, soporte técnico, arquitectura de sistemas y metodologías ágiles.
+Me interesa el desarrollo de software, bases de datos.d
 
 Actualmente me encuentro en búsqueda de una práctica empresarial donde pueda aplicar mis conocimientos, aprender de un entorno profesional real y aportar soluciones tecnológicas que generen valor para la empresa.
 
@@ -12,7 +12,7 @@ Actualmente me encuentro en búsqueda de una práctica empresarial donde pueda a
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Informática Empresarial en la Universidad de Costa Rica.
-- 💻 Interés en desarrollo web, backend, desarrollo de aplicaciones, Python, bases de datos y redes.
+- 💻 Interés en desarrollo de software, bases de datos.
 - 🧠 Conocimientos en arquitectura N-Capas, MVC y programación orientada a objetos.
 - 🛠️ Capacidad para desarrollar aplicaciones académicas y funcionales.
 - 🤝 Persona responsable, proactiva, ordenada y con disposición para aprender.
