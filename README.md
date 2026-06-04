@@ -86,27 +86,12 @@ PROXIMAMENTE
 
 ---
 
-### 🔹 Proyecto de redes
-
-Diseño y simulación de redes utilizando Cisco Packet Tracer, aplicando conceptos de direccionamiento IP, enrutamiento estático y protocolos de red.
-
-**Herramientas utilizadas:** Cisco Packet Tracer, OSPF, EIGRP, RIP y BGP.
-
----
 
 ## 📚 Áreas de interés
 
-- Desarrollo de software.
-- Desarrollo de aplicaciones.
-- Desarrollo web.
-- Backend.
+- Desarrollo de software (web, aplicaciones).
 - Bases de datos.
-- Soporte técnico.
-- Redes.
-- Análisis de sistemas.
-- Metodologías ágiles.
-- Arquitectura de software.
-
+  
 ---
 
 ## 📫 Contacto
