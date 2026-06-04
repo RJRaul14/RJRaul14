@@ -3,7 +3,7 @@
 ## 👨‍💻 Estudiante de Informática Empresarial | En búsqueda de práctica empresarial
 
 Soy estudiante de Bachillerato en Informática Empresarial en la Universidad de Costa Rica.  
-Me interesa el desarrollo de software, bases de datos.d
+Me interesa el desarrollo de software, bases de datos.
 
 Actualmente me encuentro en búsqueda de una práctica empresarial donde pueda aplicar mis conocimientos, aprender de un entorno profesional real y aportar soluciones tecnológicas que generen valor para la empresa.
 
